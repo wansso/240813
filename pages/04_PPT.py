@@ -1,5 +1,3 @@
-pip install streamlit python-pptx transformers
-
 import streamlit as st
 from pptx import Presentation
 from transformers import pipeline
